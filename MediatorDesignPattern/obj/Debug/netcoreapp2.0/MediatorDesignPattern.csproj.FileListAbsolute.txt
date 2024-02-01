@@ -1,0 +1,11 @@
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp2.0\MediatorDesignPattern.deps.json
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp2.0\MediatorDesignPattern.runtimeconfig.json
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp2.0\MediatorDesignPattern.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp2.0\MediatorDesignPattern.dll
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\netcoreapp2.0\MediatorDesignPattern.pdb
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp2.0\MediatorDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp2.0\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp2.0\MediatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp2.0\MediatorDesignPattern.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp2.0\MediatorDesignPattern.dll
+C:\Users\Bioxor\source\repos\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\netcoreapp2.0\MediatorDesignPattern.pdb
